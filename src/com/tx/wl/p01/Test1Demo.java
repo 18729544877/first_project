@@ -2,6 +2,7 @@ package com.tx.wl.p01;
 /*1.	循环：输出空心三角形*/
 public class Test1Demo {
 	public static void main(String[] args) {
+		System.out.println("xin jiao xing As below :");
 		for (int i = 0; i < 6; i++) {
 			for (int j = 0; j < 6 - i - 1; j++) {
 				System.out.print(" ");
