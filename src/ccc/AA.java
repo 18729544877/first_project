@@ -3,7 +3,8 @@ package ccc;
 public class AA {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Systrem.out.println("jiaoshi");
+		System.out.println("work");
 System.out.println("Aasdsds");
 	}
 
